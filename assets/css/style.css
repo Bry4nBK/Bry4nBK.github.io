@@ -8,6 +8,7 @@
 .card img{
     height: 60%;
     margin-top: 1%;
+    
 }
 .prezio {
     text-decoration: none; 
@@ -15,6 +16,9 @@
     color: p;
    vertical-align: baseline;
    font-family: 'Roboto', sans-serif;
+}
+.experoencia{
+    background-color: rgb(10, 151, 104);
 }
 .oferta{
     text-decoration: none;
@@ -33,9 +37,7 @@
 .formulario button{
     margin-bottom: 1%;
 }
-footer {
-    text-align: center;
-}
+
 .form-group {
     width: 90%;
     margin-left: 1%;
@@ -53,7 +55,7 @@ footer {
     padding-top: 12%;
 }
 .bloc-1 p{
-   
+    
     width: 50%;
     margin-left: 8%;
 }  
@@ -74,7 +76,7 @@ footer {
 
 .iconos{
     display: flex;
-    font-size: 80px;
+    font-size: 150px;
     justify-content: center;
     gap: 30%;
     width: 100%; /* Ajusta el ancho de la caja según tus necesidades */
@@ -90,4 +92,14 @@ h2{
 .row row-cols-1 row-cols-sm-3 g-4 img{
     border: 10px palegreen;
 
+}
+.Educacion h1{
+    font-size: 400%;
+}
+.aducacion{
+    background-color: rgb(2, 128, 2);
+}
+footer {
+    text-align: center;
+    margin-top: 10%;
 }
